@@ -49,7 +49,7 @@ function App() {
             <li>
               <a href="https://react.dev/" target="_blank">
                 <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
+                Learn more with us
               </a>
             </li>
           </ul>
@@ -94,7 +94,7 @@ function App() {
                 >
                   <use href="/icons.svg#x-icon"></use>
                 </svg>
-                X.com
+                X
               </a>
             </li>
             <li>
