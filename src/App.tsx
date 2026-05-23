@@ -37,17 +37,17 @@ function App() {
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
-          <h2>Documentation</h2>
-          <p>Hey</p>
+          <h2></h2>
+          <p></p>
           <ul>
             <li>
-              <a href="https://vite.dev/" target="_blank">
+              <a href="https://google.com/" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
                 Explore Here
               </a>
             </li>
             <li>
-              <a href="https://react.dev/" target="_blank">
+              <a href="https://google.com/" target="_blank">
                 <img className="button-icon" src={reactLogo} alt="" />
                 Learn more with us
               </a>
